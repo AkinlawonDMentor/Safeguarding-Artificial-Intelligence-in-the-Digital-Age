@@ -32,7 +32,11 @@ The table below presents an overview of adversarial attacks, along with their po
 ![9b28efdf-0fe3-46c2-8954-b40c99a7bbca](https://github.com/user-attachments/assets/79559508-f1c1-4cf5-b272-2be0807f78e7)
 
 
+
+
 How does security fit into AI model lifecycles?
+
+
 Security fits into AI model lifecycles by safeguarding every phase of development and operation to ensure the model's confidentiality, integrity, and availability. During data collection, security measures prevent unauthorized access and ensure data quality and privacy. In the training phase, robust protocols protect the model from data poisoning or adversarial manipulations. At deployment, secure APIs, encryption, and access controls mitigate risks of unauthorized access or model theft. Ongoing monitoring and maintenance ensure the system remains resilient to emerging threats, detecting and responding to anomalies or attacks in real time. This comprehensive approach ensures the safe and reliable performance of AI systems.  Just as with the Software Development and Operations (DevOps) methodology, the field of Machine Learning Operations (MLOps) defines best practices and tools for deploying reliable, reproducible, and adaptable models. A good example of a model development pipeline with a MLOps focus is CRISP-ML(Q), the Cross-Industry Standard Process for the development of Machine Learning applications with Quality assurance.
 
 CRISP-ML(Q) defines six phases in the model lifecycle:
