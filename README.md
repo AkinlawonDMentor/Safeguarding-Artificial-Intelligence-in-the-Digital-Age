@@ -26,3 +26,6 @@ The figure below illustrates an example of an AI-enabled system that includes a 
 ![ai-enabled-system](https://github.com/user-attachments/assets/3caf6dcc-0d76-44f7-ad32-c43c5d58e153)
 
 
+The table below presents an overview of adversarial attacks, along with their potential impacts on AI-enabled systems.
+![9b28efdf-0fe3-46c2-8954-b40c99a7bbca](https://github.com/user-attachments/assets/79559508-f1c1-4cf5-b272-2be0807f78e7)
+
