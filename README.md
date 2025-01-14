@@ -20,3 +20,9 @@ Real-Time Threat Detection: AI systems need to incorporate dynamic threat detect
 Regulatory Compliance and Ethical Safeguards: As governments and organizations establish standards for AI use, adhering to these guidelines ensures that AI systems operate within ethical and legal boundaries. Transparency in AI decision-making and clear accountability measures are essential to building public trust.
 
 Continuous Security Evolution: The digital landscape evolves rapidly, and so do the threats targeting AI systems. Continuous updates, periodic audits, and the integration of emerging security technologies are necessary to stay ahead of adversaries.
+
+
+The figure below illustrates an example of an AI-enabled system that includes a trained AI model, highlighting the various access times, entry points, and levels of system knowledge that an adversary might exploit.
+![ai-enabled-system](https://github.com/user-attachments/assets/3caf6dcc-0d76-44f7-ad32-c43c5d58e153)
+
+
