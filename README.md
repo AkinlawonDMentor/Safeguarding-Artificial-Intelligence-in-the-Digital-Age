@@ -66,12 +66,17 @@ Large Language Models (LLMs) are a specialized class of natural language models 
 Hardware security has long been a critical focus in traditional cybersecurity, and now it is increasingly being examined in the context of AI systems. Various hardware security threats can target these systems, such as:
 
 Side Channel Attacks — Sensitive information about the system is extracted through alternative data channels, such as voltage fluctuations or response timings.
+
 Fault Injection Attacks — Attackers deliberately introduce errors into the system by feeding faulty input data or disrupting the physical environment, causing the system to behave unpredictably.
+
 Hardware Trojan Attacks — Malicious modifications, such as backdoors, are implanted within the hardware components, including GPUs and other critical platform circuits, compromising system security.
 
 
 3. Policy
 As the awareness of vulnerabilities in AI-enabled systems grows, policymakers and political leaders are increasingly focused on finding a balanced approach that addresses both privacy concerns and the need for innovation. This ongoing exploration seeks to establish regulations that protect individual rights while fostering technological advancements.
+
+
+
 
 
 
