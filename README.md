@@ -1,4 +1,4 @@
-# Safeguarding Artificial Intelligence in the Digital Age" by Akinlawon Babajide Fayokun, an accomplished Senior Enterprise Cybersecurity Leader, highlights his proven expertise in protecting sensitive digital assets across various industries, including financial institutions, government entities, and the manufacturing sector.
+# Safeguarding Artificial Intelligence in the Digital Age" by Akinlawon Babajide Fayokun, an accomplished Senior Enterprise Cybersecurity Leader.
 
 
 
@@ -76,8 +76,12 @@ As the awareness of vulnerabilities in AI-enabled systems grows, policymakers an
 
 
 References:
+
 https://atlas.mitre.org/matrices/ATLAS
+
 https://ml-ops.org/content/crisp-ml
+
 https://www.nist.gov/itl/ai-risk-management-framework
+
 https://www.ncsc.gov.uk/files/Guidelines-for-secure-AI-system-development.pdf
 
